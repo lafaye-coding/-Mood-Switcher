@@ -1,5 +1,5 @@
-function happy() {
-   document.getElementById("message").textContent = "Happy mode activated";
+function crazy() {
+   document.getElementById("message").textContent = "crazy mode activated";
    document.getElementById("page").style.background = "yellow";
 }
 
